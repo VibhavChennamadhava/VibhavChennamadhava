@@ -4,27 +4,25 @@
 
 Welcome to my GitHub! I'm a cybersecurity enthusiast with experience in DevOps, penetration testing, and system administration. I love solving real-world security challenges, building efficient systems, and contributing to the security community through technical write-ups.
 
----
+## 💼 Experience
 
-## 🔧 Technologies & Tools
+**DevOps Support Engineer**  
+*Accenture | Feb 2022 – Jun 2023 | Hyderabad, India*
 
-- 💻 **Operating Systems**: Power user of Windows & Linux – skilled in navigation, file systems, and networking troubleshooting   
-- 🧪 **Monitoring & Analysis**: Wireshark | Splunk | Elastic Stack  
-- 🔐 **Security**: Network analysis, log correlation, vulnerability management  
-- 🐍 **Programming**: Java & Python (proficient)  
-- 🗃️ **Databases**: MySQL | Linux system configuration
-- 🏢 **Active Directory**: Fundamental knowledge of AD environment and security 
-- 🛡️ **Cybersecurity Contributions**: Authoring write-ups for the security community  
-
----
-
-## 💻 Programming Languages
-
-- **Python** 🐍  
-- **Java** ☕
-- **C++**
+- Designed and deployed Azure CI/CD pipelines integrating build automation, testing, and deployment to Azure SQL and web apps — improving delivery time by 40%.
+- Managed Kubernetes clusters for microservice deployments and Docker container orchestration, ensuring zero downtime rollouts.
+- Implemented Prometheus + Grafana dashboards to monitor key application metrics, detect anomalies, and generate automated weekly performance reports.
+- Led key rotations and credential lifecycle management for multiple DevOps tools, enhancing infrastructure security posture.
+- Automated environment provisioning using Ansible playbooks, reducing configuration drift and maintaining compliance with client security baselines.
+- Developed infrastructure scripts for patch management, log retention, and package updates, strengthening system reliability.
+- Partnered with developers and QA teams to optimize CI/CD workflows, troubleshoot build failures, and streamline release processes.  
 
 ---
+## 🏅 Certifications
+
+- ✅ **CompTIA Security+**
+- ✅ **Machine Learning by Andrew Ng**
+- ✅ **Google Cybersecurity Professional Certificate**
 
 ## 🎓 Education
 
@@ -39,11 +37,16 @@ Welcome to my GitHub! I'm a cybersecurity enthusiast with experience in DevOps, 
 
 ---
 
-## 🏅 Certifications
+## 🔧 Technologies & Tools
 
-- ✅ **CompTIA Security+**
+- 💻 **Operating Systems**: Power user of Windows & Linux – skilled in navigation, file systems, and networking troubleshooting   
+- 🧪 **Monitoring & Analysis**: Wireshark | Splunk | Elastic Stack  
+- 🔐 **Security**: Network analysis, log correlation, vulnerability management  
+- 🐍 **Programming**: Java & Python (proficient)  
+- 🗃️ **Databases**: MySQL | Linux system configuration
+- 🏢 **Active Directory**: Fundamental knowledge of AD environment and security 
+- 🛡️ **Cybersecurity Contributions**: Authoring write-ups for the security community  
 
----
 
 ## 🔒 Security & Networking
 
@@ -63,18 +66,11 @@ Welcome to my GitHub! I'm a cybersecurity enthusiast with experience in DevOps, 
 
 ---
 
-## 💼 Experience
+## 💻 Programming Languages
 
-**DevOps Support Engineer**  
-*Accenture | Feb 2022 – Jun 2023 | Hyderabad, India*
-
-- Designed and deployed Azure CI/CD pipelines integrating build automation, testing, and deployment to Azure SQL and web apps — improving delivery time by 40%.
-- Managed Kubernetes clusters for microservice deployments and Docker container orchestration, ensuring zero downtime rollouts.
-- Implemented Prometheus + Grafana dashboards to monitor key application metrics, detect anomalies, and generate automated weekly performance reports.
-- Led key rotations and credential lifecycle management for multiple DevOps tools, enhancing infrastructure security posture.
-- Automated environment provisioning using Ansible playbooks, reducing configuration drift and maintaining compliance with client security baselines.
-- Developed infrastructure scripts for patch management, log retention, and package updates, strengthening system reliability.
-- Partnered with developers and QA teams to optimize CI/CD workflows, troubleshoot build failures, and streamline release processes.  
+- **Python** 🐍  
+- **Java** ☕
+- **C++**
 
 ---
 
