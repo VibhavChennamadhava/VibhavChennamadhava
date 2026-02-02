@@ -3,12 +3,12 @@
 Cybersecurity Enthusiast | DevOps Support Engineer | Master's in Cybersecurity @ University of North Texas | Security+ Certified | CTF & Write-ups Contributor
 </h3>
 
-<img align="right" alt="Hacker Meme" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3YnZzZWZ2eDRyeWcxOGtkeDZqbTRpaHdiZ3RwamEwMWJqOHZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif"/>
+<img align="right" alt="Hacker Meme" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3YnZzZWZ2eDRyeWcxOGtkeDZqbTRpaHdiZ3RwamEwMWJqOHZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif"/>
 
 - 🔭 Currently working on: **Security Labs + CTFs + Write-ups (HTB / TryHackMe)**
 - 🌱 I’m currently learning: **SOC Operations, Cloud Security , SIEM Detection & Incident Response, Red Teaming, Penetration Testing**
 - 👨‍💻 My GitHub projects & labs: **https://github.com/VibhavChennamadhava**
-- 🧠 Interested in roles: **SOC Analyst | Security Analyst | Cloud Security | DevSecOps | Pentesting **
+- 🧠 Interested in roles: **SOC Analyst | Security Analyst | Cloud Security | DevSecOps | Pentesting**
 - 📫 How to reach me: **vibhav.chennamadhava@gmail.com** **https://www.linkedin.com/in/vibhav-chennamadhava-61184b190**
 
 ---
