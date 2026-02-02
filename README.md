@@ -57,13 +57,13 @@ effort weekly.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/vibhav-chennamadhava-61184b190/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID" target="blank">
+<a href="https://app.hackthebox.com/users/1841858" target="blank">
   <img align="center" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="hackthebox" height="30" width="40" />
 </a>
-<a href="https://tryhackme.com/p/YOUR_THM" target="blank">
+<a href="https://tryhackme.com/p/vibhav.chennamadhava" target="blank">
   <img align="center" src="https://tryhackme.com/img/favicon.png" alt="tryhackme" height="30" width="40" />
 </a>
 </p>
