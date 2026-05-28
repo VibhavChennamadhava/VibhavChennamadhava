@@ -43,9 +43,9 @@ effort weekly.
 
 ## 🌍 CTF Challenges & Flags Captured
 
-- 🚩 **Flags Captured (Total):** **9**
-- 🧠 **Challenges Solved:** **2**
-- 🖥️ **Machines Pwned:** **4**
+- 🚩 **Flags Captured (Total):** **30+**
+- 🧠 **Challenges Solved:** **15+**
+- 🖥️ **Machines Pwned:** **10+**
 
 
 **Platforms I practice on:**
