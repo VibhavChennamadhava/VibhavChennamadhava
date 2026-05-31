@@ -15,7 +15,7 @@ Cybersecurity Enthusiast | DevOps Support Engineer | Master's in Cybersecurity @
 
 ## 🏢 Experience
 
-**DevOps Support Engineer — Accenture (Feb 2022 – Nov 2023) | Hyderabad, India**
+**DevOps Support Engineer — Accenture (July 2021 – Nov 2023) | Hyderabad, India**
 - Monitored security events and operational logs across Windows, Linux, and cloud workloads, improving detection
 coverage by 35%.
 - Triaged alerts, validated suspicious activity, and escalated incidents with clear timelines, evidence, and remediation
