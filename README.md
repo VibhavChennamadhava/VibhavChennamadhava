@@ -35,6 +35,7 @@ effort weekly.
 
 ## 🏅 Certifications
 
+- ✅ Cisco Certified Network Associate **CCNA**
 - ✅ CompTIA **Security+**
 - ✅ Google **Cybersecurity Professional Certificate**
 - ✅ Machine Learning — **Andrew Ng**
